@@ -13,7 +13,7 @@ You can use regular scheduler that just counts time or you can use scheduler wit
 
 <h2>Commands</h2>
 <ol>
-  <li> /start<li>
+  <li> /start </li>
   <li> /webcam [workTimeSecs: int] [breakTimeSecs: int] [Repeat: int] </li>
   <li> /regular [workTimeSecs: int] [breakTimeSecs: int] [Repeat: int] </li>
   <li> /listThreads </li>
